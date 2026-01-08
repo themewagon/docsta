@@ -10,7 +10,7 @@ export const PackageStructure = () => {
       <div className="rounded-md p-6 pt-3 border border-smokyBlack/10 dark:border-white/20 mt-6">
         <div className="flex items-center gap-4">
           <h5 className="text-base font-medium mt-3 mb-1">
-            Docsta Tailwind Nextjs Templates
+            docsta Tailwind Nextjs Templates
           </h5>
         </div>
         <ul className="ps-3 md:ps-5 list-unstyled">
@@ -271,7 +271,7 @@ export const PackageStructure = () => {
               <p className="text-xl text-secondary dark:text-white" >|—</p>
               <span className="font-medium text-secondary dark:text-white">
                 <Image src={"/images/icon/folder-icon.svg"} alt="folder-icon" width={16} height={16} className="text-primary text-base inline-block me-2" />
-                Docsta-docs (sanity local setup)
+                docsta-docs (sanity local setup)
               </span>
             </div>
             <div className="flex">

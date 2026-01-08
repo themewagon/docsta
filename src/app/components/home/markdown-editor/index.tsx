@@ -6,7 +6,7 @@ import Prism from 'prismjs'
 import 'prismjs/components/prism-yaml'
 import 'prismjs/themes/prism-tomorrow.css'
 
-const initialCode = `site_name: Docsta
+const initialCode = `site_name: docsta
 nav:
   - Home: index.md
   - Installation: install.md

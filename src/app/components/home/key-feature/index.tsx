@@ -26,7 +26,7 @@ const KeyFeature = () => {
                 <div className="container">
                     <div className="flex flex-col gap-6 sm:gap-10">
                         <div className="flex flex-col items-center text-center gap-2.5">
-                            <p className="uppercase text-primary">Docsta Key features</p>
+                            <p className="uppercase text-primary">docsta Key features</p>
                             <h2>Everything You Need — Nothing You Don’t</h2>
                         </div>
                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-10">

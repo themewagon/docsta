@@ -6,7 +6,7 @@ import { QuickStart } from "@/app/components/project-documentation/QuickStart";
 import { SanityConfiguration } from "@/app/components/project-documentation/sanityConfiguration";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-    title: "Documentation | Docsta",
+    title: "Documentation | docsta",
 };
 
 export default function Page() {
