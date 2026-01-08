@@ -1,16 +1,16 @@
 # Docsta – a modern, minimal, and highly customizable documentation starter template for open-source projects, tools, or libraries.
 #### Preview
 
- - [Demo](https://themewagon.github.io/Docsta/)
+ - [Demo](https://themewagon.github.io/docsta/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Docsta/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/docsta/)
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/Docsta.git
+git clone https://github.com/themewagon/docsta.git
 ```
 2. Install Dependencies
 ```

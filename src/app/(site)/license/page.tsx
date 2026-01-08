@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Licence | Docsta",
+    title: "Licence | docsta",
 };
 
 export default function LicensePage() {
@@ -14,7 +14,7 @@ export default function LicensePage() {
                         <div>
                             <h6 className="mb-2 font-semibold">Free Templates / MIT License</h6>
                             <p className="text-secondary">
-                                Copyright (c) 2020 by Docsta
+                                Copyright (c) 2020 by docsta
 
                                 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -26,7 +26,7 @@ export default function LicensePage() {
                         <div>
                             <h6 className="mb-2 font-semibold">Single Use License</h6>
                             <p className="text-secondary">
-                                With Single Use License you will be able to use our product for yourself or your client project for 1 time. If you want to use it for multiple times, you need to buy another regular license. Ownership and Copyright of our template will stay with Docsta after purchasing single use license. That means you are allowed to use our template in your project and use for one client or yourself, but you are not allowed to create SaaS application and sell that, also you are not allowed to sell, distribute or lease our template as it is to anyone.. Here is what you can and can’t with single use license.
+                                With Single Use License you will be able to use our product for yourself or your client project for 1 time. If you want to use it for multiple times, you need to buy another regular license. Ownership and Copyright of our template will stay with docsta after purchasing single use license. That means you are allowed to use our template in your project and use for one client or yourself, but you are not allowed to create SaaS application and sell that, also you are not allowed to sell, distribute or lease our template as it is to anyone.. Here is what you can and can’t with single use license.
                             </p>
                             <h6 className="mb-2 mt-3.5 font-semibold">Can:</h6>
                             <ul className="flex flex-col gap-1.5">

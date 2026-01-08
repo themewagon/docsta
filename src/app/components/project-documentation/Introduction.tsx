@@ -82,7 +82,7 @@ export const Introduction = () => {
         </div>
         <div className="mt-5">
           <p className="text-base font-medium text-secondary dark:text-white">
-            Docsta Tailwind NextJs Template is built with Tailwindcss and
+            docsta Tailwind NextJs Template is built with Tailwindcss and
             Nextjs.
           </p>
           <p className="text-base font-medium text-secondary dark:text-white">

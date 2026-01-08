@@ -16,7 +16,7 @@ const HeroSection = () => {
         });
     };
 
-    const words = `Docsta is a modern, minimal, and highly customizable documentation starter template for open-source projects, tools, or libraries.`;
+    const words = `docsta is a modern, minimal, and highly customizable documentation starter template for open-source projects, tools, or libraries.`;
     return (
 
         <section>
@@ -30,7 +30,7 @@ const HeroSection = () => {
                             </div>
                             <h1>Launch Docs. Fast. Beautiful. Focused.</h1>
                             <TextGenerateEffect words={words} />
-                            {/* <h5 className="text-secondary max-w-3xl">Docsta is a modern, minimal, and highly customizable documentation starter template for open-source projects, tools, or libraries.</h5> */}
+                            {/* <h5 className="text-secondary max-w-3xl">docsta is a modern, minimal, and highly customizable documentation starter template for open-source projects, tools, or libraries.</h5> */}
                             <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-5 py-3">
                                 <div className="flex items-center gap-2.5 bg-primary/10 border border-primary rounded-xl px-4 py-2">
                                     <p className="text-secondary">$</p>
@@ -56,7 +56,7 @@ const HeroSection = () => {
                                 <Image src={"/images/icon/github-icon.svg"} alt="github-icon" width={24} height={24} className="dark:hidden block" />
                                 <Image src={"/images/icon/github-white.svg"} alt="github-icon" width={24} height={24} className="dark:block hidden" />
                                 <iframe
-                                    src={`https://ghbtns.com/github-btn.html?user=themewagon&repo=Docsta&type=star&count=true`}
+                                    src={`https://ghbtns.com/github-btn.html?user=themewagon&repo=docsta&type=star&count=true`}
                                     width="150"
                                     height="20"
                                     title="GitHub"

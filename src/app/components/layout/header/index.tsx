@@ -44,7 +44,7 @@ const Header = () => {
                             <Image src={"/images/icon/github-icon.svg"} alt="github-icon" width={24} height={24} className="dark:hidden block" />
                             <Image src={"/images/icon/github-white.svg"} alt="github-icon" width={24} height={24} className="dark:block hidden" />
                             <iframe
-                                src={`https://ghbtns.com/github-btn.html?user=themewagon&repo=Docsta&type=star&count=true`}
+                                src={`https://ghbtns.com/github-btn.html?user=themewagon&repo=docsta&type=star&count=true`}
                                 width="50"
                                 height="20"
                                 title="GitHub"

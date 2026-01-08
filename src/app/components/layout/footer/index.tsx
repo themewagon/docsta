@@ -26,7 +26,7 @@ const Footer = () => {
                 <div className="container">
                     <div className="flex flex-col sm:flex-row gap-2 items-center justify-between text-center sm:text-left">
                         <p>
-                            © <Link href={"/"} className="hover:text-primary">Docsta</Link>. All rights reserved Created by
+                            © <Link href={"/"} className="hover:text-primary">docsta</Link>. All rights reserved Created by
                             <Link href={"https://getnextjstemplates.com/"} target="_blank" className="hover:text-primary"> Getnextjstemplates.com</Link>
                             {" "}• Distributed by
                             <Link href={"https://themewagon.com/"} target="_blank" className="hover:text-primary"> ThemeWagon</Link>
